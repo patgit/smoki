@@ -2,6 +2,7 @@
 
 SMOKI
 
+- gh repo create
 
 
 
